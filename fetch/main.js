@@ -73,6 +73,6 @@ function deleteUser(id) {
 
 updateUser(updatedUser, 2)
 
-// deleteUser(3)
+deleteUser(6)
 getUsers()
-getUser(2)
+getUser(1)
